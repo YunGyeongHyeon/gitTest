@@ -9,3 +9,4 @@ const minus = (a, b) => {
 const mul = (a, b) => {
   return a * b;
 };
+//fuckYou
