@@ -1,4 +1,7 @@
-const plus = (a, b, c) => {
-  const result = (a * b) / c;
-  return result;
+const plus = (a, b) => {
+  return a + b;
+};
+
+const minus = (a, b) => {
+  return a - b;
 };
